@@ -83,6 +83,7 @@ Decrypted file created:
 ```text
 decrypted_sample.txt
 ```
+<img width="900" height="1600" alt="image" src="https://github.com/user-attachments/assets/38f6b003-c061-4625-8500-fa9446629e88" />
 
 ## Project Structure
 
